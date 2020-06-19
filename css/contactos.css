@@ -138,7 +138,7 @@ body{
     border: 1px solid #008080;
 }
 
-.formulario button{
+.formulario #inputenviar{
     padding: 12px 30px;
     border: transparent;
     background: #008080;
